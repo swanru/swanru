@@ -44,18 +44,15 @@
   <img alt="snake eating my contributions" src="https://github.com/swanru/swanru/blob/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-
 <hr/>
-
 <h2 align="center"> Statistic my contribution </h2>
 <br>
-<div>  
+<div align="left">  
   <img src="https://github-readme-stats.vercel.app/api?username=swanru&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swanru&theme=dark&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swanru&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=swanru&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
-
-<br/><br/>
+<br/>
 <hr/>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
