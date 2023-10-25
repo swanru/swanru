@@ -18,7 +18,7 @@
  <br>
 <div align="left"> 
   <a href="mailto:selwanriaudyu48@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?logo=mailto&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/shelwanru" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
