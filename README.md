@@ -11,11 +11,12 @@
 <img hight="400" width="1000" alt="GIF" align="center" src="https://github.com/swanru/swanru/blob/main/Assets/Wallpaper_BS.jpg?raw=true">
 </div><br>
 
-<div align="center">
+<div align="left">
  🌱 I’m currently learning *Tailwind, Next JS*
  💬 Ask me about **Jupyter, CSS**
  </div>
-<div align="center"> 
+ <br>
+<div align="left"> 
   <a href="mailto:selwanriaudyu48@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?logo=mailto&logoColor=white" />
   </a>
@@ -30,9 +31,9 @@
     </a>
 </div>
 <hr/>
-<h2 align="center">Languages,Frameworks,Tools</h2>
+<h2 align="left">Languages,Frameworks,Tools</h2>
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
@@ -61,23 +62,21 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white " />
 </div>
 <hr/>
-<h2 align="center"> Statistic my contribution </h2>
+<h2 align="left"> Statistic my contribution </h2>
 <br>
 <div align="left">  
   <img src="https://github-readme-stats.vercel.app/api?username=swanru&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swanru&theme=dark&hide_border=false"/>
-  <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=swanru&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=swanru&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 <br/>
 <hr/>
-<div align="center">
+<div align="left">
   <h2> My Contributions this year</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/swanru/swanru/blob/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;">
 </h3>
-
-<br/>
