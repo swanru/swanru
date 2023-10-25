@@ -8,7 +8,7 @@
 
 <br/>
 <div align="center">
-<img hight="400" width="1000" alt="GIF" align="center" src="https://github.com/swanru/swanru/blob/main/Assets/Wallpaper_BS.jpg?raw=true">
+<img hight="400" width="700" alt="GIF" align="center" src="https://github.com/swanru/swanru/blob/main/Assets/Wallpaper_BS.jpg?raw=true">
 </div><br>
 
 <div align="left">
