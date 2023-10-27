@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=swanru" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=black&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+I'm+Shelwan+Riaudy+U!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lato&pause=1000&color=5C80BC&background=FFFFFF00&random=false&width=435&lines=Shelwan+Riaudy+U" />
 </h1>
 
 <h3 align="center" color="black">A passionate Software Engineering and Data Science from Indonesia</h3>
