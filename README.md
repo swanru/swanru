@@ -62,6 +62,7 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white " />
 </div>
 <hr/>
+<br/>
 <h2 align="left"> Statistic my contribution </h2>
 <br>
 <div align="center">
