@@ -63,7 +63,7 @@
 </div>
 <hr/>
 <br/>
-<h2 align="left"> Statistic my contribution </h2>
+<h2 align="left"> Statistic for my contribution </h2>
 <br>
 <div align="center">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=swanru&theme=dark&hide_border=false"/>
