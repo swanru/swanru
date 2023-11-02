@@ -11,7 +11,7 @@
 </div><br>
 
 <div align="left">
- 🌱 I’m currently learning *Tailwind, Next JS*
+ 🌱 I’m currently learning *Tailwind, Next JS, Python*
  💬 Ask me about **Jupyter, CSS**
  </div>
  <br>
