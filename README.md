@@ -60,6 +60,7 @@
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white " />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white " />
 </div>
+<br/>
 <hr/>
 <h2 align="left"> Statistic for my contribution </h2>
 <br>
