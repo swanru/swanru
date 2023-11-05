@@ -11,7 +11,7 @@
 <br/>
 <div align="left">
  🌱 I’m currently learning *Tailwind, Next JS, Python*
- 💬 Ask me about **Jupyter, CSS**
+ 💬 Ask me about **Jupyter, CSS, Python**
  </div>
  <br>
 <div align="left"> 
