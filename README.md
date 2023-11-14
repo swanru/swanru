@@ -1,5 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=swanru"/>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=500&size=55&pause=1000&color=5C80BC&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+my+GitHub;" />
 </h1>
