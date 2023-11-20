@@ -7,7 +7,6 @@
 <div align="center">
 <img hight="400" width="600" alt="GIF" align="center" src="https://github.com/swanru/swanru/blob/main/Assets/Wallpaper_BS.jpg?raw=true">
 </div>
-
 <br>
 <br/>
 <div align="left">
