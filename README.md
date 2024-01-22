@@ -5,7 +5,6 @@
 <h3 align="center" color="black">A passionate Software Engineering and Data Science from Indonesia</h3>
 <br/>
 <a href="https://www.google.com">gugel</a>
-[I'm an inline-style link](https://www.google.com)
 <div align="center">
 <img hight="400" width="600" alt="GIF" align="center" src="https://github.com/swanru/swanru/blob/main/Assets/Wallpaper_BS.jpg?raw=true">
 </div>
