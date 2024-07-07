@@ -5,7 +5,7 @@
 <h3 align="center" color="black">A passionate Software Engineering and Data Science from Indonesia</h3>
 <br/>
 <div align="center">
-<img hight="400" width="600" alt="GIF" align="center" src="https://github.com/swanru/swanru/blob/main/Assets/Wallpaper_BS.jpg?raw=true">
+<img hight="400" width="600" alt="GIF" align="center" src="https://github.com/swanru/swanru/blob/main/Assets/FqoGw4kaMAAiQx9.jpeg?raw=true">
 </div>
 <br>
 <br/>
